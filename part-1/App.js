@@ -1,10 +1,10 @@
 "use strict";
 
-function App(){
-  return(
+function App() {
+  return (
     <div>
       <FirstComponent />
-      <NamedComponent name = 'Mellow'></NamedComponent>
+      <NamedComponent name='Mellow' />
     </div>
   );
 }
